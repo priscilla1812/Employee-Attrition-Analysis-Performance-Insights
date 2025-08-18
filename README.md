@@ -41,7 +41,6 @@ This project analyzes the IBM HR Analytics Employee Attrition & Performance data
 4. Does **job satisfaction or work-life balance** influence attrition?
 5. How do **income, education, and experience** affect attrition?
 
----
 
 ## **Data Preprocessing**
 
@@ -50,7 +49,6 @@ This project analyzes the IBM HR Analytics Employee Attrition & Performance data
 * Binned continuous variables like `TotalWorkingYears`, `YearsAtCompany`, and `MonthlyIncome` for grouped analysis.
 * Removed or ignored **redundant columns** such as EmployeeCount, StandardHours, and EmployeeNumber for analysis.
 
----
 
 ## **Exploratory Data Analysis (EDA)**
 
@@ -62,7 +60,6 @@ This project analyzes the IBM HR Analytics Employee Attrition & Performance data
   * **Attrition vs Job Satisfaction, Work-Life Balance, Environment Satisfaction, Job Involvement, Relationship Satisfaction** (countplots)
   * **Attrition vs Income, Education, Total Working Years** (boxplots, grouped bar charts)
 
----
 
 ## **Insights**
 
@@ -76,18 +73,16 @@ This project analyzes the IBM HR Analytics Employee Attrition & Performance data
    * Attrition is higher among Bachelor and College level employees.
    * Employees with 0–9 years of experience or short tenure at company are more likely to leave.
 
----
 
-**Recommendation:**
+## **Recommendation:**
 
 Training, career growth, and incentive programs may reduce attrition. Improving work-life balance, job satisfaction, and compensation can significantly reduce turnover.
 
----
 
 ## **Future Work**
 
 * Predictive modeling to **forecast employee attrition** using machine learning.
 
----
+
 
 **Priscilla Philby Oommen**
